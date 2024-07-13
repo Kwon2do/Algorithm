@@ -27,3 +27,4 @@ function solution(priorities, location) {
         }
     }
 }
+/* 시간복잡도: O(n) */
